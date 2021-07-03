@@ -10,6 +10,8 @@ My name is Mariano Aguero and I'm a blockchain developer. I'm from Argentina, li
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Hardhat-informational?style=flat&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=graphql&Color=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
