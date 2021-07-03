@@ -46,9 +46,9 @@ My name is Mariano Aguero and I'm a blockchain developer. I'm from Argentina, li
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariano-aguero&count_private=true&show_icons=true&include_all_commits=true" alt="Mariano's GitHub Stats" />
 </a>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mariano-aguero&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mariano-aguero&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mariano-aguero.mariano-aguero)
