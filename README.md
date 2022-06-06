@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/mariano-aguero/mariano-aguero/master/wave.gif" width="30px">
+### Hi there
 
 My name is Mariano Aguero and I'm a blockchain developer. I'm from Argentina, living in Santa Fe. I'm a tech enthusiast and open-source advocate. I'm always open to collaborating on projects and innovative/disruptive ideas. Connect with me here:
 
