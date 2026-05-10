@@ -10,8 +10,9 @@ $ whoami
 > 20y in software · 8y on Ethereum · based in Santa Fe, AR 🇦🇷
 
 $ cat focus.txt
-> solidity security · smart contract auditing · ai tooling for auditors
-> building mcp servers, claude code skills, agentic security review
+> web3 / defi engineering · ai tooling for developers
+> building mcp servers, claude code skills, dev workflow automation
+> with a sweet spot for security-adjacent tooling
 
 $ ls -la career/
 drwx  2025-now    <a href="https://github.com/JustaName-id">JustaName</a>           # Staff Engineer · ENS-based identity infra
