@@ -13,6 +13,7 @@ $ cat focus.txt
 > web3 / defi engineering · ai tooling for developers
 > building mcp servers, claude code skills, dev workflow automation
 > with a sweet spot for security-adjacent tooling
+> currently: arbitrum fellowship w/ <a href="https://github.com/CoBuilders-xyz">cobuilders</a> · digging into stylus & rust
 
 $ ls -la career/
 drwx  2025-now    <a href="https://github.com/JustaName-id">JustaName</a>           # Staff Engineer · ENS-based identity infra
@@ -33,10 +34,12 @@ $ ls projects/web3/
 <a href="https://subgraph-forge.vercel.app">subgraph-forge</a>          # generate the graph subgraphs from contract abis
 <a href="https://p2p-escrow-on-starknet.vercel.app">p2p-escrow-on-starknet</a>  # p2p escrow built on starknet
 <a href="https://github.com/mariano-aguero/mortgage-platform">mortgage-platform</a>       # tokenized mortgage primitives
+<a href="https://github.com/mariano-aguero/arbitrum-study-guide">arbitrum-study-guide</a>    # study notes on ethereum, arbitrum & stylus
 
 $ ls projects/devtools/
 <a href="https://github.com/mariano-aguero/spec-driven-development-skill">spec-driven-development-skill</a>  # spec-first workflow for ai coding agents
 <a href="https://github.com/mariano-aguero/claude-daily">claude-daily</a>                   # auto-generate standups from git + prs + worklog
+<a href="https://github.com/JustaName-id/stash">stash</a>                          # local-first capture panel for macos · mcp-enabled
 
 $ git log --oneline contributions/
 * [grant ]  Aave NFT-as-collateral · extend aave protocol with nft collateral
@@ -54,7 +57,7 @@ $ cat stack.json
   "backend":         ["Node.js", "Hono", "Express", "Drizzle", "PostgreSQL", "Redis", "GraphQL"],
   "security":        ["Slither", "Aderyn", "Solhint", "Mythril"],
   "infra":           ["Docker", "GCP", "AWS EKS", "BigQuery"],
-  "chains":          ["Ethereum", "Starknet", "Solana", "Aptos", "Tezos", "Cosmos", "Stellar", "Filecoin", "RSK"]
+  "chains":          ["Ethereum", "Arbitrum", "Starknet", "Solana", "Aptos", "Tezos", "Cosmos", "Stellar", "Filecoin", "RSK"]
 }
 
 $ contact --available-for "work | freelance | audits | collabs"
