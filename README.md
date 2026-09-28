@@ -6,7 +6,7 @@
 
 <pre>
 $ whoami
-> Mariano Agüero · Staff Engineer @ <a href="https://github.com/JustaName-id">JustaName</a>
+> Mariano Agüero · Staff Engineer @ <a href="https://github.com/JustaLab-co">JustaLab</a>
 > 20y in software · 8y on Ethereum · based in Santa Fe, AR 🇦🇷
 
 $ cat focus.txt
@@ -16,7 +16,7 @@ $ cat focus.txt
 > currently: arbitrum fellowship w/ <a href="https://github.com/CoBuilders-xyz">cobuilders</a> · digging into stylus & rust
 
 $ ls -la career/
-drwx  2025-now    <a href="https://github.com/JustaName-id">JustaName</a>           # Staff Engineer · ENS-based identity infra
+drwx  2025-now    <a href="https://github.com/JustaLab-co">JustaLab</a>            # Staff Engineer · ENS-based identity infra
 drwx  2023-2025   <a href="https://github.com/karpatkey">Karpatkey</a>           # Senior Frontend · treasury reports, panic button, api
 drwx  2022        SupraOracles        # Senior Fullstack · cerberus daemon & api
 drwx  2020-2022   Think and Dev       # Tech Lead · ratio finance, allianceblock
@@ -39,7 +39,7 @@ $ ls projects/web3/
 $ ls projects/devtools/
 <a href="https://github.com/mariano-aguero/spec-driven-development-skill">spec-driven-development-skill</a>  # spec-first workflow for ai coding agents
 <a href="https://github.com/mariano-aguero/claude-daily">claude-daily</a>                   # auto-generate standups from git + prs + worklog
-<a href="https://github.com/JustaName-id/stash">stash</a>                          # local-first capture panel for macos · mcp-enabled
+<a href="https://github.com/JustaLab-co/stash">stash</a>                          # local-first capture panel for macos · mcp-enabled
 
 $ git log --oneline contributions/
 * [grant ]  Aave NFT-as-collateral · extend aave protocol with nft collateral
